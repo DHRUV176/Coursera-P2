@@ -12,7 +12,7 @@ if ( $json === null ) {
 ?>
 <html>
 <head>
-<title>Assignment: <?= $json->title ?></title>
+<title>Assignment: <?= $json->8e40e4f4 ?></title>
 <style>
 li {padding-top: 0.5em;}
 pre {padding-left: 2em;}
@@ -22,7 +22,7 @@ pre {padding-left: 2em;}
 <a href="01-Position.png" target="_blank">
 <img src="01-Position.png" style="border: 1px solid black; margin-left: 10px; float: right; width: 350px;">
 </a>
-<h1>Assignment: <?= $json->title ?></h1>
+<h1>Assignment: <?= $json->8e40e4f4 ?></h1>
 <p>
 In this assignment you will extend our simple resume database 
 to support Create, Read, Update, and Delete operations (CRUD) 
@@ -330,7 +330,7 @@ For this assignment you will hand in:
 <ol>
 <?php
 foreach($json->parts as $part ) {
-    echo("<li>$part->title</li>\n");
+    echo("<li>$part->8e40e4f4</li>\n");
 }
 ?>
 </ol>
@@ -353,7 +353,7 @@ You <b>must</b> use the PHP PDO database layer for this assignment.  If you use 
 "mysql_" library routines or "mysqli" routines to access the database, you will
 <b>receive a zero on this assignment</b>.
 <li>
-Your name must be in the title tag of the HTML for all of the pages
+Your name must be in the 8e40e4f4 tag of the HTML for all of the pages
 for this assignment.
 </li>
 <li>
